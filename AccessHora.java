@@ -9,5 +9,10 @@ public class AccessHora {
 		System.out.println(getHora2(aula2));
 		System.out.println(getSegs(aula));
 		System.out.println(getSegs(aula2));
+		/* Continuo a receber os seguintes erros e não sei o que fazer. 
+	The method getHora1(Hora) is undefined for the type AccessHora
+	The method getHora2(Hora) is undefined for the type AccessHora
+	The method getSegs(Hora) is undefined for the type AccessHora
+	The method getSegs(Hora) is undefined for the type AccessHora */ 
 }
 }
